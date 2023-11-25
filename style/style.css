@@ -1,0 +1,20 @@
+body
+{
+    background-color: goldenrod;
+}
+
+h1
+{
+    color: navy;
+    text-align: center;
+    font-size: 50px;
+}
+
+ul
+{
+    font-size: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
